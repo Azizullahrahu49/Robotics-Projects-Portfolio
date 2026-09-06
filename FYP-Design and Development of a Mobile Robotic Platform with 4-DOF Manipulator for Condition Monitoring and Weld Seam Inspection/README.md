@@ -41,6 +41,6 @@ This project presents the design and development of a **mobile robotic inspectio
 * OpenCV
 * Computer Vision
 * MATLAB
-* R / Shiny Dashboard
+* HMI
 * Image Processing
 * Robot Control
